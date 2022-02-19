@@ -1,1 +1,5 @@
-function helloworld(){return "hello world"}
+((d,w)=>{
+  function dom(x){
+    alert(x)
+  }
+})(document,window)
