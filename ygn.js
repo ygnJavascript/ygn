@@ -1,5 +1,3 @@
-((d,w)=>{
-  function dom(x){
-    alert(x)
-  }
-})(document,window)
+function dom(x){
+  let res=document.createElement()
+}
